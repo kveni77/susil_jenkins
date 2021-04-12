@@ -1,1 +1,5 @@
+
 conflict in terminal
+
+con in github
+conflict solved 
