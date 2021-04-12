@@ -3,3 +3,4 @@ conflict in terminal
 
 con in github
 conflict solved 
+edited after conflict
